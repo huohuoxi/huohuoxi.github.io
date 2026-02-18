@@ -25,7 +25,7 @@ For more details, check out the [documentation](https://stack.jimmycai.com/writi
 
 ## Gist
 
-{{< gist CaiJimmy e2751a943de10b2a5b3a8a6c2120cb86 >}}
+<script src="https://gist.github.com/CaiJimmy/e2751a943de10b2a5b3a8a6c2120cb86.js"></script>
 
 ## GitLab
 
