@@ -1,15 +1,15 @@
 # Change baseurl before deploy
 baseurl      = "https://huohuoxi.github.io/"
-languageCode = "zh-cn"
+languageCode = "zh"
 title        = "Harogenshi's new blog"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "zh"
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage = false
+hasCJKLanguage = true
 
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
