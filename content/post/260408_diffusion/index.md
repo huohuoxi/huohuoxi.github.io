@@ -3,6 +3,7 @@
 title: 【扩散模型极简介绍】从2015的Diffusion到2020的DDPM
 description: 阅读这两篇论文得到的一些笔记
 date: 2026-04-08 14:41:00+0000
+math: true
 image: cover.png
 categories:
     - 机器学习
